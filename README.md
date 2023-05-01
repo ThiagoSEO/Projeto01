@@ -95,7 +95,7 @@ Eu sou desenvolvedor há mais de 5 anos e também tenho alguns conhecimentos com
 
 # :ghost: Cartão Visita
 
-<img align="center" alt="ThiagoStdio | Card " width="700px" src="https://github.com/ThiagoStdio/ThiagoStdio/blob/master/assets/catsa2.png?raw=true" />
+<img align="center" alt="ThiagoStdio | Card " width="700px" src="https://raw.githubusercontent.com/ThiagoSEO/Index/main/Picsart_23-05-01_06-33-16-683.png" />
 
 <br/>
 <br/>
