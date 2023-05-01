@@ -49,7 +49,7 @@
 
 
 ```sh
-Projetos de advanced robotics, Science, Technology, Engineering e Mathematics (STEM).
+Projetos de Advanced Robotics, Science, Technology, Engineering e Mathematics (STEM).
 ```
 
 ### :ocean: Exercícios e Projetos
@@ -107,7 +107,7 @@ Eu sou desenvolvedor há mais de 5 anos e também tenho alguns conhecimentos com
  PROJETO-id04 TCC SISTEMA INTEGRADO CRUD (Versão 1.0)
  PROJETO-id05 TPV (Versão 1.0)
  PROJETO-id06 GAME JS (Versão 1.0)
- PROJETO-id07  (Versão 1.0)
+ PROJETO-id07 (Versão 1.0)
 
 ```
 
