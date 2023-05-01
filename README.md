@@ -104,9 +104,10 @@ Eu sou desenvolvedor há mais de 5 anos e também tenho alguns conhecimentos com
  PROJETO-id01 HUB (Versão 1.0)
  PROJETO-id02 STEP MOTOR (Versão 1.0)
  PROJETO-id03 CRUMBLE (Versão 1.0)
- PROJETO-id04 TCC (Versão 1.0)
+ PROJETO-id04 TCC SISTEMA INTEGRADO CRUD (Versão 1.0)
  PROJETO-id05 TPV (Versão 1.0)
  PROJETO-id06 GAME JS (Versão 1.0)
+ PROJETO-id07  (Versão 1.0)
 
 ```
 
