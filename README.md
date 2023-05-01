@@ -97,6 +97,16 @@ Eu sou desenvolvedor há mais de 5 anos e também tenho alguns conhecimentos com
 
 <img align="center" alt="ThiagoStdio | Card " width="700px" src="https://raw.githubusercontent.com/ThiagoSEO/Index/main/Picsart_23-05-01_06-33-16-683.png" />
 
+## Projetos
+
+```sh
+#PROJETOS   
+ HUB PROJETO-id01 (Versão 1.0)
+ STEP MOTOR PROJETO-id02 (Versão 1.0)
+ 
+
+```
+
 <br/>
 <br/>
 
