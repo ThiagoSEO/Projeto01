@@ -49,7 +49,7 @@
 
 
 ```sh
-Projetos de robótica avançada, Science, Technology, Engineering e Mathematics (STEM).
+Projetos de advanced robotics, Science, Technology, Engineering e Mathematics (STEM).
 ```
 
 ### :ocean: Exercícios e Projetos
@@ -85,10 +85,10 @@ Descrição dos projetos pré instruidos, aqui eu incluo algumas informações p
 
 ## :octocat: Sobre mim
 
-### :school_satchel: [Portfólio 2021](http://stdio.online/portfolio.html)
+### :school_satchel: [Portfólio 2023](https://thiagoseo.github.io/)
 
 ```sh
-Sou desenvolvedor de sistemas formado e técnico em mecatrônica. CEO do departamento de SEO e Marketing Stdio Comunicação.
+
 ```
 ---
 
