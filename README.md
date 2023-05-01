@@ -1,4 +1,4 @@
-# Olá, meu nome é [Thiago Martins](http://www.stdio.online) !
+8# Olá, meu nome é [Thiago Martins](http://www.stdio.online) !
 
 ## Seja Bem-Vindo ao meu perfil no GitHub <img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br/>
@@ -99,18 +99,17 @@ Eu sou desenvolvedor há mais de 5 anos e também tenho alguns conhecimentos com
 
 ## Projetos
 
-```sh
+
 # Links para os Projetos 
  🎯 [PROJETO-id01 HUB](https://google.com)
- 🎯PROJETO-id02 STEP MOTOR (Versão 1.0)
+ 🎯 [PROJETO-id02 STEP MOTOR] ()
  🎯PROJETO-id03 CRUMBLE (Versão 1.0)
  🎯PROJETO-id04 TCC SISTEMA INTEGRADO CRUD (Versão 1.0)
  🎯PROJETO-id05 TPV (Versão 1.0)
  🎯PROJETO-id06 GAME JS (Versão 1.0)
  🎯PROJETO-id07 (Versão 1.0)
 
-```
- [PROJETO-id01 HUB](https://google.com)
+ 
 
 <br/>
 <br/>
