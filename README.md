@@ -88,6 +88,7 @@ Descrição dos projetos pré instruidos, aqui eu incluo algumas informações p
 ### :school_satchel: [Portfólio 2023](https://thiagoseo.github.io/)
 
 ```sh
+Eu sou desenvolvedor há mais de 5 anos e também tenho alguns conhecimentos com design gráfico, como criação de logos, e até mesmo automação, que foi minha formação.
 
 ```
 ---
