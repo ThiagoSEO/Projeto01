@@ -73,7 +73,7 @@ EXERCÍCIO   NOME DO PROJETO-id (FACULDADE DO EXERCÍCIO)
 ---
 ---
 
-## :page_facing_up: Documentação dos projetos
+### :page_facing_up: Documentação dos projetos
 
 ### Descrição
 
@@ -83,7 +83,7 @@ Descrição dos projetos pré instruidos, aqui eu incluo algumas informações p
 ---
 ---
 
-## :octocat: Sobre mim
+### :octocat: Sobre mim
 
 ### :school_satchel: [Portfólio 2023](https://thiagoseo.github.io/)
 
