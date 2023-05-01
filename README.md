@@ -101,7 +101,7 @@ Eu sou desenvolvedor há mais de 5 anos e também tenho alguns conhecimentos com
 
 ```sh
 # Links para os Projetos 
- : bookmark : PROJETO-id01 HUB (Versão 1.0)
+ :accenture: PROJETO-id01 HUB (Versão 1.0)
  PROJETO-id02 STEP MOTOR (Versão 1.0)
  PROJETO-id03 CRUMBLE (Versão 1.0)
  PROJETO-id04 TCC SISTEMA INTEGRADO CRUD (Versão 1.0)
