@@ -97,17 +97,18 @@ Eu sou desenvolvedor há mais de 5 anos e também tenho alguns conhecimentos com
 
 <img align="center" alt="ThiagoStdio | Card " width="700px" src="https://raw.githubusercontent.com/ThiagoSEO/Index/main/Picsart_23-05-01_06-33-16-683.png" />
 
-## Projetos
+## Know-How
 
 
 # Links para os Projetos 
  🎯 [PROJETO-id01 HUB](https://google.com)
  🎯 [PROJETO-id02 STEP MOTOR] ()
- 🎯PROJETO-id03 CRUMBLE (Versão 1.0)
- 🎯PROJETO-id04 TCC SISTEMA INTEGRADO CRUD (Versão 1.0)
- 🎯PROJETO-id05 TPV (Versão 1.0)
- 🎯PROJETO-id06 GAME JS (Versão 1.0)
- 🎯PROJETO-id07 (Versão 1.0)
+ 🎯 [PROJETO-id03 CRUMBLE] (Versão 1.0)
+ 🎯 [PROJETO-id04 TCC SISTEMA INTEGRADO CRUD] (Versão 1.0)
+ 🎯 [PROJETO-id05 TPV] (Versão 1.0)
+ 🎯 [PROJETO-id06 GAME JS] (Versão 1.0)
+ 🎯 [PROJETO-id07 C Sharp] (Versão 1.0)
+ 🎯 [PROJETO-id08]
 
  
 
